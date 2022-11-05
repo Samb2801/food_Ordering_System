@@ -1,0 +1,8 @@
+body{
+	background: url('images/l.jpg');
+	height:100%;
+	width:200%;
+	margin-left:20px;
+	background-size:cover;
+	background-position:center; 
+}
